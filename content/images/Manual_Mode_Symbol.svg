@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Manual_Mode_Symbol</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-728.000000, -474.000000)">
+            <g id="Manual_Mode_Button" transform="translate(716.000000, 459.000000)">
+                <g id="Manual_Mode_Symbol" transform="translate(12.000000, 15.000000)">
+                    <polygon id="Path_42" points="0 0 50 0 50 50 0 50"></polygon>
+                    <path d="M16.667,27.083 L16.667,9.375 C16.667,7.64911016 18.0661102,6.25 19.792,6.25 C21.5178898,6.25 22.917,7.64911016 22.917,9.375 L22.917,25" id="Path_43" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M22.917,23.959 L22.917,19.792 C22.917,18.0661102 24.3161102,16.667 26.042,16.667 C27.7678898,16.667 29.167,18.0661102 29.167,19.792 L29.167,25" id="Path_44" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M29.167,21.875 C29.167,20.1491102 30.5661102,18.75 32.292,18.75 C34.0178898,18.75 35.417,20.1491102 35.417,21.875 L35.417,25" id="Path_45" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M35.415,23.958 C35.415,22.2321102 36.8141102,20.833 38.54,20.833 C40.2658898,20.833 41.665,22.2321102 41.665,23.958 L41.665,33.333 C41.665,40.2357784 36.0697783,45.8318956 29.167,45.833 L25.434,45.833 C21.2280034,45.833715 17.3036252,43.7191429 14.991,40.206 L14.584,39.583 C13.934,38.583 11.652,34.6053333 7.738,27.65 C6.90529311,26.1739925 7.40081452,24.3032549 8.855,23.433 C10.3847083,22.5151868 12.3426512,22.7554986 13.605,24.016 L16.667,27.078" id="Path_46" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M5.294,11.654 C6.89279173,10.4851645 8.6106718,9.48862647 10.419,8.681" id="Path_47" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M29.167,7.204 C31.879948,7.93192579 34.4679203,9.06393188 36.844,10.562" id="Path_48" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

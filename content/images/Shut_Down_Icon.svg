@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shut_Down_Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-123.000000, -674.000000)">
+            <g id="Shut_Down_Button" transform="translate(108.000000, 659.000000)">
+                <g id="Shut_Down_Icon" transform="translate(15.000000, 15.000000)">
+                    <polygon id="Path_18" points="0 0 50 0 50 50 0 50"></polygon>
+                    <path d="M14.584,12.5 C9.40470736,16.8732009 7.50850684,24.0158846 9.83674642,30.3821441 C12.164986,36.7484035 18.2218601,40.9825248 25.0005,40.9825248 C31.7791399,40.9825248 37.836014,36.7484035 40.1642536,30.3821441 C42.4924932,24.0158846 40.5962926,16.8732009 35.417,12.5" id="Path_19" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="25" y1="8.333" x2="25" y2="25" id="Line_16" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

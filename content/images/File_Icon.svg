@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>File_Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-731.000000, -274.000000)">
+            <g id="File_Button" transform="translate(716.000000, 259.000000)">
+                <g id="File_Icon" transform="translate(15.000000, 15.000000)">
+                    <polygon id="Path_6" points="0 0 50 0 50 50 0 50"></polygon>
+                    <path d="M29.167,6.25 L29.167,14.583 C29.167,15.7334091 30.0995909,16.666 31.25,16.666 L39.583,16.666" id="Path_7" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M35.417,43.75 L14.584,43.75 C12.2826294,43.75 10.417,41.8843706 10.417,39.583 L10.417,10.417 C10.417,8.11562945 12.2826294,6.25 14.584,6.25 L29.167,6.25 L39.584,16.667 L39.584,39.583 C39.584,40.6881571 39.144978,41.7480499 38.363514,42.529514 C37.5820499,43.310978 36.5221571,43.75 35.417,43.75 Z" id="Path_8" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

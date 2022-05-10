@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="21px" viewBox="0 0 17 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 23</title>
+    <g id="Navigation-Pane" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-29" transform="translate(-21.000000, -182.000000)" stroke="#C5C6C6" stroke-width="1.25">
+            <g id="Group-23" transform="translate(21.944467, 183.000000)">
+                <polyline id="Path_2" points="4.72177333 10 3.38865333 10 3.38865333 16.66688 4.72177333 16.66688"></polyline>
+                <polyline id="Path_3" points="10.0555333 10 11.3886533 10 11.3886533 16.66688 10.0555333 16.66688"></polyline>
+                <path d="M10.0555333,0.66624 L10.0555333,5.46635521 C10.0555333,6.12903328 10.4136711,6.66624 10.8554565,6.66624 L14.0555333,6.66624" id="Path_4"></path>
+                <path d="M12.6666667,19 L2.11128,19 C0.945252253,19 0,18.0547477 0,16.88872 L0,2.11128 C0,0.945252253 0.945252253,0 2.11128,0 L9.5,0 L14.7779467,5.27794667 L14.7779467,16.88872 C14.7779467,17.4486663 14.5555089,17.9856786 14.1595671,18.3816204 C13.7636253,18.7775622 13.2266129,19 12.6666667,19 Z" id="Path_5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

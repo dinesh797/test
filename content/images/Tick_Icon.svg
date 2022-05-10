@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tick_Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-537.000000, -479.000000)">
+            <g id="System_Status" transform="translate(70.000000, 459.000000)">
+                <g id="Status_Indicator" transform="translate(326.000000, 0.000000)">
+                    <g id="Tick_Icon" transform="translate(141.000000, 20.000000)">
+                        <polygon id="Path_23" points="0 0 40 0 40 40 0 40"></polygon>
+                        <polyline id="Path_24" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="8.333 20 16.666 28.333 33.333 11.667"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

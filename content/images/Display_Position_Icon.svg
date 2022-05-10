@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Display_Position_Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-731.000000, -374.000000)">
+            <g id="Display_Position_Button" transform="translate(716.000000, 359.000000)">
+                <g id="Display_Position_Icon" transform="translate(15.000000, 15.000000)">
+                    <polygon id="Path_9" points="0 0 50 0 50 50 0 50"></polygon>
+                    <polyline id="Path_10" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="43.75 39.583 6.25 39.583 25 8.333"></polyline>
+                    <line x1="42.948" y1="31.606" x2="42.979" y2="31.606" id="Path_11" stroke="#78BDF7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="40.656" y1="24.523" x2="40.687" y2="24.523" id="Path_12" stroke="#78BDF7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="36.906" y1="18.065" x2="36.937" y2="18.065" id="Path_13" stroke="#78BDF7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="32.115" y1="12.44" x2="32.146" y2="12.44" id="Path_14" stroke="#78BDF7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
